@@ -1,0 +1,6 @@
+pyfiglet==0.8.post1
+colorama==0.4.4
+platformdirs==2.5.2
+psutil==5.9.5
+system-info==2.0.0
+termcolor==2.3.0
